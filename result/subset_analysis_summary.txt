@@ -1,0 +1,15 @@
+Melanoma PBMC Baseline (time=0) on Miraclib - Summary
+==================================================
+Total samples: 656
+
+Samples per project:
+  prj1: 384
+  prj3: 272
+
+Subjects by response:
+  Non-responders: 325
+  Responders: 331
+
+Subjects by sex:
+  Female: 312
+  Male: 344
